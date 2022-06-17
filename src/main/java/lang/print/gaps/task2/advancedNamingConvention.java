@@ -13,4 +13,7 @@ public class AdvancedNamingConvention {
     void callByNumber(int number) {
         //some code
     }
+    public static void main(String[] args) {
+
+    }
 }
